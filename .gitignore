@@ -23,3 +23,6 @@ _testmain.go
 *.test
 *.prof
 *.cov
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/go-detour.iml
